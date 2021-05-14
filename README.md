@@ -11,7 +11,7 @@ $ yarn add argy-args
 ### Usage
 
 ```ts
-import { Argy } from "./argy";
+import { Argy } from "argy-args";
 
 const argy = new Argy();
 
